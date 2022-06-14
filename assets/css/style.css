@@ -1,0 +1,30 @@
+*{
+    background-color: white
+}
+body{
+   color: black;
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 16px;
+
+}
+
+span{
+    font-size: 16px;
+}
+
+.flex-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    color: red;
+}
+
